@@ -1,6 +1,6 @@
+import * as React from "react";
 import { ModeNightRounded, WbSunnyRounded } from "@mui/icons-material";
 import { Box, Button, PaletteMode } from "@mui/material";
-import * as React from "react";
 
 interface ToggleColorModeProps {
     mode: PaletteMode;

@@ -18,9 +18,6 @@ import ChevronLeftIcon from '@mui/icons-material/ChevronLeft';
 import { mainListItems, secondaryListItems } from './listItems';
 import { Logout } from '@mui/icons-material';
 import { Outlet, Link as RouterLink } from 'react-router-dom';
-//import Chart from './Chart';
-//import Deposits from './Deposits';
-//import Orders from './Orders';
 
 function Copyright(props: any) {
   return (
